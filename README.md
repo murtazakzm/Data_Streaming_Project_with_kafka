@@ -8,7 +8,7 @@ Storage: Cassandra
 
 Orchestration: Apache Airflow
 
-Development: Python, Docker (for containerization)
+Development: Python, Docker
 
-Everything is containerized for easy deployment and scalability.
+
 
